@@ -26,6 +26,9 @@ Hope this is interesting!
 
 Refs: 
     https://www.youtube.com/watch?v=_BZGtifh_gw
+    
     https://towardsdatascience.com/image-classification-api-with-tensorflow-and-fastapi-fc85dc6d39e8
+    
     https://www.youtube.com/watch?v=23R2eI95S30&t=528s
+    
     https://www.youtube.com/watch?v=vpTAqnAbowo
